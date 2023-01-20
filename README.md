@@ -3,7 +3,7 @@
  
 
 
-- 😄 I’m Pathum, a Software Engineering undergraduate at SLIIT.
+- 😄 I’m Avishka, a Software Engineering undergraduate at SLIIT.
 - 🌱 I enjoy learning new technologies.
 -   I'm seeking for an internship
 
